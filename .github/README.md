@@ -1,7 +1,7 @@
 ━━━━━━━━━━━━━━━━━━━
 <h1 align="center"><b>[✨🥀] ™°‌ 🫧 ☆𝐓𝐇𝐔𝐍𝐃𝐄𝐑 𝐎𝐏☆ [✨🥀]</b></h1>
 
-<h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐓𝐇𝐔𝐍𝐃𝐄𝐑 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
+<h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐓𝐇𝐔𝐍𝐃𝐄𝐑 ROBOT</h4>
 
 <p align="center"><a href="https://t.me/itz_R2h"><img src="https://telegra.ph/file/36c4afc56b67cd5aafd57.jpg" width="400"></a></p>0
 
