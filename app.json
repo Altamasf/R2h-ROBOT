@@ -1,14 +1,14 @@
 {
-      "name": "˹ 𝗦𝙴𝙽𝙾𝚁𝙸𝚃𝙰 ✘ 𝗥𝙾𝙱𝙾 ˼",
+    "name": "™°‌ 🫧 ☆𝐓𝐇𝐔𝐍𝐃𝐄𝐑 𝐎𝐏☆.",
       "description": "𝐓𝐆 𝐆𝐑𝐎𝐔𝐏 𝐌𝐀𝐍𝐀𝐆𝐄𝐑 𝐑𝐎𝐁𝐎𝐓.",
-      "logo": "https://te.legra.ph/file/eace7a5d8d4b515a11e50.jpg",
+      "logo": "https://telegra.ph/file/36c4afc56b67cd5aafd57.jpg",
       "keywords": [
          "telegram",
          "modular",
          "group",
          "manager"
       ],   
-   "repository": "https://github.com/itzshukla/STRANGER-ROBOT2.0",
+   "repository": "https://github.com/Altamasf/R2h-ROBOT",
    "stack": "heroku-22",
    "addons": [
       {
@@ -22,12 +22,12 @@
       "API_ID": {
          "description": "Get this value from my.telegram.org/apps.",
          "required": true,
-         "value": "29308061"
+         "value": "25614292"
       },
       "API_HASH": {
          "description": "Get this value from my.telegram.org/apps.",
          "required": true,
-         "value": "462de3dfc98fd938ef9c6ee31a72d099"
+         "value": "59ee8005ce6b056fa639d956f028eeeb"
       },
       "ALLOW_EXCL": {
          "description": "Set this to True if you want ! to be a command prefix along with /. Recommended is True",
@@ -65,7 +65,7 @@
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit.",
          "required": true,
-         "value": "mastiwithfriendsx"
+         "value": "itz_R2h"
       },
       "TOKEN": {
          "description": "Get bot token from @BotFather on TG",
